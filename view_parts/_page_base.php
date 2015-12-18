@@ -5,5 +5,6 @@
     <title><?= SITE_NAME; ?></title>
 </head>
 <body>
+<div id="wrappper"> <!--Ouverture  de wrapper-->
     <?php require_once '_header.php'; ?>
     <?php require_once '_main_menu.php'; ?>
