@@ -1,6 +1,20 @@
-li {
+.ligne {
     display:inline-block;
-    list-style:none;
     width:23%;
     text-align:center;
+    list-style:none;
+}
+
+.inscription {
+    display:inline-block;
+    width:7%;
+    margin-top:10px;
+}
+
+.error {
+    background-color:orange;
+}
+
+#nonestyle {
+    list-style:none;
 }
